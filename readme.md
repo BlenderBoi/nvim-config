@@ -30,8 +30,8 @@ To Be Listed
 
 ## Config Location:
 
-Linux:      ~/.config/nvim
-Windows:    C://Users/Username/AppData/Local/nvim
+- Linux:      ~/.config/nvim
+- Windows:    C://Users/Username/AppData/Local/nvim
 
 
 
