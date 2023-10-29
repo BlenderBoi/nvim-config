@@ -28,4 +28,12 @@ To Be Listed
 - Tree Sitter
 - Snippets
 
+## Config Location:
+
+Linux:      ~/.config/nvim
+Windows:    C://Users/Username/AppData/Local/nvim
+
+
+
+
 
